@@ -2,3 +2,5 @@ venv/
 .env
 __pycache__/
 *.chroma_agent_db
+chroma_v25_db
+chroma_v25_db/
